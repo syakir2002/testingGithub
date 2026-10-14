@@ -7,7 +7,7 @@
     </head>
     <body>
         <main>
-            <h1>test2</h1>
+            <h1>test2 Welcome to Laravel+GitHub</h1>
         </main>
     </body>
 </html>
