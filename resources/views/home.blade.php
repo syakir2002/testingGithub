@@ -7,8 +7,7 @@
     </head>
     <body>
         <main>
-            <h1>test2 Welcome to Laravel+GitHub</h1>
+            <h1>test2 Welcome to Laravel+GitHub danish test ni kir</h1>
         </main>
     </body>
 </html>
-danish test ni kir 
